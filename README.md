@@ -1,2 +1,2 @@
 # hbase-import-csv
-Simple CSV importer in Go (POC)
+Simple importer from CSV to HBase in Go (POC)
